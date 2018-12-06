@@ -1,0 +1,13 @@
+{
+  "short_name": "持ち物チェックリスト",
+  "name": "NZ旅行持ち物チェックリスト",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://o1n216n4z.codesandbox.io/"
+}
